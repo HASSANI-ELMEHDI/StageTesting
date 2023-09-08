@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/StageTesting/static/css/main.371d4719.css",
+    "main.js": "/StageTesting/static/js/main.58550680.js",
+    "static/media/info.png": "/StageTesting/static/media/info.013f9369869e60b1939d.png",
+    "index.html": "/StageTesting/index.html",
+    "main.371d4719.css.map": "/StageTesting/static/css/main.371d4719.css.map",
+    "main.58550680.js.map": "/StageTesting/static/js/main.58550680.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.371d4719.css",
+    "static/js/main.58550680.js"
+  ]
+}
