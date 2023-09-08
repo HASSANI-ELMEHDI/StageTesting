@@ -1,0 +1,10 @@
+.icon-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  .triangle-icon {
+    transform: rotate(-90deg);
+    fill: green; /* Choisissez la couleur souhaitée */
+  }
